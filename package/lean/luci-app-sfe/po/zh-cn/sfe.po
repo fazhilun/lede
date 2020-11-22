@@ -2,7 +2,7 @@ msgid "SFE Acceleration"
 msgstr "SFE 转发加速"
 
 msgid "Turbo ACC Center"
-msgstr "Turbo ACC 网络加速"
+msgstr "Turbo ACC"
 
 msgid "Turbo ACC Acceleration Settings"
 msgstr "Turbo ACC"
